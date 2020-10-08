@@ -18,6 +18,6 @@
 *.Rbuildignore
 # Build files
 config.*
-src/config.h
+!src/config.h
 src/texput.log
 src/Makevars
